@@ -1,13 +1,13 @@
  #  ***Olá meu nome é Cristiane***
 
- :computer: Desenvolvedora Back End Junior | Programadora Junior | Apaixonada por Tecnologia 
+ :computer: Analista de dados | Ciencias de Dados | Apaixonada por Tecnologia 
 
- :books: Estudante do ultimo semestre do curso de Sistemas de Informação pela Univeridade ESAB 
+ :books: Bacharel em Sistemas de Informação e Pós Graduanda em Ciências de Dados
 
-👩‍👦 Mãe do Miguel 
+👩‍👦 Eterna Estudante  
 :musical_note: Amo Podcasts em especial Venus 
 
-:woman_technologist: Atualmente focada em Phyton e Go
+:woman_technologist: Atualmente focada Coud Azure Big Data e Analises Estatisticas 
 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
